@@ -1,0 +1,37 @@
+# Vivado
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.srcs/
+.runs/
+.Xil/
+.gen/
+.xpr.user
+*.jou
+*.log
+*.str
+
+# Simulation
+*.wdb
+*.vcd
+*.wcfg
+*.pb
+*.zip
+
+# Backup / Temporary Files
+*~
+*.bak
+*.tmp
+*.swp
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Generated Documentation
+docs/*.pdf
